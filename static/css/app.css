@@ -3,7 +3,6 @@ body {
   font-size: 14px;
   line-height: 1.5;
   display: flex;
-  
   justify-content: center;
 }
 
@@ -11,7 +10,7 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
-#namelable{
+.namelable{
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -23,12 +22,12 @@ body {
 	border-radius: 5px;
 	background-color: #55FFA5;
 }
-#mainbody{
+.mainbody{
 	width: 600px;
 	height: 500px;
 	border:1px solid black;
 }
-#info{
+.info{
 	display: flex;
 	align-items: center;
 	justify-content: center;
