@@ -11,7 +11,7 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
-div#namelable{
+#namelable{
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -28,7 +28,7 @@ div#namelable{
 	height: 500px;
 	border:1px solid black;
 }
-div#info{
+#info{
 	display: flex;
 	align-items: center;
 	justify-content: center;
